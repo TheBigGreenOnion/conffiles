@@ -1,0 +1,13 @@
+URxvt.scrollBar: false
+URxvt.background: Black
+URxvt.foreground: White
+URxvt.scrollstyle: plain
+URxvt.cursorBlink: true
+#URxvt.font: xft:Dejavu Sans Mono:size=8:style=Normal:antialiasing=true
+URxvt.font: xft:DejaVu Sans Mono for Powerline:size=8
+
+# Clickable, pretty URLs
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+URxvt.colorUL: #4682B4
