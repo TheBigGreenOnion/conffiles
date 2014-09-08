@@ -1,7 +1,7 @@
 Config { 
 
    -- appearance
-     font =         "xft:Dejavu Sans Mono for Powerline:size=9:bold:antialias=true"
+     font =         "xft:Dejavu Sans Mono:size=9:bold:antialias=true"
    , bgColor =      "black"
    , fgColor =      "#646464"
    , position =     Top
